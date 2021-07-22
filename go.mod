@@ -79,7 +79,7 @@ require (
 	github.com/vdemeester/shakers v0.1.0
 	github.com/vulcand/oxy v1.1.0
 	github.com/vulcand/predicate v1.1.0
-	go.elastic.co/apm v1.7.0
+	go.elastic.co/apm v1.11.0
 	go.elastic.co/apm/module/apmot v1.7.0
 	golang.org/x/mod v0.3.0
 	golang.org/x/net v0.0.0-20200904194848-62affa334b73
